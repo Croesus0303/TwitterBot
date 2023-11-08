@@ -17,4 +17,4 @@ We created jobs for Java Trends Service calls. We added calls at certain hours.
 
 # Architecture
 
-<img width="657" alt="Ekran Resmi 2023-11-06 22 08 00" src="https://github.com/Croesus0303/TwitterBot/assets/45857730/21544c46-7f7f-437e-a525-a35480bab78c">
+<img width="657" alt="Ekran Resmi 2023-11-06 22 08 00" src="https://github.com/Croesus0303/TwitterBot/assets/45857730/11af2191-4e3d-428c-9e06-ade91776c68c">

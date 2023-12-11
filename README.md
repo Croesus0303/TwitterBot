@@ -1,4 +1,4 @@
-# TwitterBot
+# TwitterBot(@Mevstige)
 Twitter bot with producer and consumer. This bot tweets trending news during the day for specified categories at specified times of each day.
 
 # Java Trends Service(Producer)
